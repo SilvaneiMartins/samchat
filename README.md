@@ -1,4 +1,4 @@
-Este projeto foi iniciado com o aplicativo Create React App
+Este projeto, clone do Discord foi iniciado com o aplicativo Create React App
 
 ## Scripts disponíveis
 No diretório do projeto, você pode executar:
