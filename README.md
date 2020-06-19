@@ -3,6 +3,9 @@ Este projeto foi iniciado com o aplicativo Create React App
 ## Scripts disponíveis
 No diretório do projeto, você pode executar:
 
+## `yarn ou npm install`
+Para instalar as dependências, digitar o comando acima.<br />
+
 ### `yarn start`
 Executa o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
