@@ -10,6 +10,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#fire-executar">Executar</a>
+  <a href="#fire-informacoes">Informacoes</a>
 </p>
 
 <h4 align="left">
@@ -51,6 +52,9 @@ $ yarn start
 
 Executa o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
+
+
+## :bowtie: Informacoes
 
 Desenvolvedor: Silvanei Martins<br>
 Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)
