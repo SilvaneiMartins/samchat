@@ -46,7 +46,7 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-## :fire-executar: Como executar
+## :fire: Como executar
 
 Executa o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
