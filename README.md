@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fire-executar">Como executar</a>
+  <a href="#fire-executar">Como Executar</a>
 </p>
 
 <h4 align="left">
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido em meus estudos, com o propósito de aprender e au
 
 ## :information_source: Como usar
 
-Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.com) e [Yarn v1.13](https://yarnpkg.com/) ou maior instalados. Comandos:
+Para clonar e executar esta aplicação, você precisa do [Github](https://git-scm.com) e [Yarn](https://yarnpkg.com/) ou maior instalados. Comandos:
 
 ```bash
 # Clone this repository
@@ -46,7 +46,7 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-## :fire: Como executar
+## :fire: Como Executar
 
 Executa o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
