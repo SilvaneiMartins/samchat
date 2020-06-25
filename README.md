@@ -10,7 +10,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#fire-executar">Executar</a>>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fire-informacoes">Informacoes</a>
+  <a href="#fire-contato">Contato</a>
 </p>
 
 <h4 align="left">
@@ -54,7 +54,7 @@ Executa o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
 
-## :bowtie: Informacoes
+## :page_with_curl: Contato
 
 Desenvolvedor: Silvanei Martins<br>
 Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)
