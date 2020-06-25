@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-como-executar">Como executar</a>
+  <a href="#fire-como-executar">Como executar</a>
 </p>
 
 <h4 align="left">
@@ -46,7 +46,7 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-## :runner: Como executar
+## :fire-como-executar: Como executar
 
 Executa o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
