@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fire-executar">Como Executar</a>
+  <a href="#fire-executar">Executar</a>
 </p>
 
 <h4 align="left">
@@ -38,7 +38,7 @@ Para clonar e executar esta aplicação, você precisa do [Github](https://git-s
 $ git clone https://github.com/SilvaneiMartins/samchat/
 
 # Go into the repository
-$ cd banco-web
+$ cd samchat
 
 # Install dependencies
 $ yarn install
@@ -46,7 +46,8 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
-## :fire: Como Executar
+
+## :fire: Executar
 
 Executa o aplicativo no modo de desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
